@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+####Details
+##Name -Syed Shoeb Ullah Hussainy
+##University- KMIT Hyderabad
+##Year-3 currently
+
+
 
 You can use the [editor on GitHub](https://github.com/Shoeb-08/Shoeb-08.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
