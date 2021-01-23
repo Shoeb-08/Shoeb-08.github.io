@@ -1,7 +1,7 @@
-####Details
-##Name -Syed Shoeb Ullah Hussainy
-##University- KMIT Hyderabad
-##Year-3 currently
+######Details
+###Name -Syed Shoeb Ullah Hussainy
+###University- KMIT Hyderabad
+###Year-3 currently
 
 
 
